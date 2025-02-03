@@ -6,12 +6,12 @@
   </h2>
   <div>
     <ul>
-      <li>Actualmente en el cuarto año de la carrera ingeniería en sistemas de la UTN ✏️</li> 
-      <li>Me apasionan el diseño y el desarrollo de software/sistemas 👀</li>
-      <li>Me faaaascinan las ciencias exactas y naturales 🧠</li>
-      <li>¡Me encanta aprender, conocer y saber la mayor cantidad de cosas posibles! 🤨</li>
-      <li>Uno de mis hobbies preferidos es leer, sobretodo divulgación científica y ciencia ficción 📖</li>
-      <li>Comenzando a desarrollar una serie de side projects que tengo en mente... 😏</li>
+      <li>Actualmente en el cuarto año de la carrera ingeniería en sistemas de la UTN </li> 
+      <li>Me apasionan el diseño y el desarrollo de software/sistemas</li>
+      <li>Me faaaascinan las ciencias exactas y naturales</li>
+      <li>Me encanta aprender, conocer y saber la mayor cantidad de cosas posibles🤨</li>
+      <li>Uno de mis hobbies preferidos es leer, sobretodo divulgación científica y ciencia ficción</li>
+      <li>Comenzando a desarrollar una serie de side projects que tengo en mente...</li>
     </ul>
   </div>
 </div>
